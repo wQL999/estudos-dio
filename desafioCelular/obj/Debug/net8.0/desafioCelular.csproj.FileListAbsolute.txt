@@ -1,0 +1,14 @@
+C:\estudos\desafioCelular\obj\Debug\net8.0\desafioCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\desafioCelular\obj\Debug\net8.0\desafioCelular.AssemblyInfoInputs.cache
+C:\estudos\desafioCelular\obj\Debug\net8.0\desafioCelular.AssemblyInfo.cs
+C:\estudos\desafioCelular\obj\Debug\net8.0\desafioCelular.csproj.CoreCompileInputs.cache
+C:\estudos\desafioCelular\bin\Debug\net8.0\desafioCelular.exe
+C:\estudos\desafioCelular\bin\Debug\net8.0\desafioCelular.deps.json
+C:\estudos\desafioCelular\bin\Debug\net8.0\desafioCelular.runtimeconfig.json
+C:\estudos\desafioCelular\bin\Debug\net8.0\desafioCelular.dll
+C:\estudos\desafioCelular\bin\Debug\net8.0\desafioCelular.pdb
+C:\estudos\desafioCelular\obj\Debug\net8.0\desafioCelular.dll
+C:\estudos\desafioCelular\obj\Debug\net8.0\refint\desafioCelular.dll
+C:\estudos\desafioCelular\obj\Debug\net8.0\desafioCelular.pdb
+C:\estudos\desafioCelular\obj\Debug\net8.0\desafioCelular.genruntimeconfig.cache
+C:\estudos\desafioCelular\obj\Debug\net8.0\ref\desafioCelular.dll
